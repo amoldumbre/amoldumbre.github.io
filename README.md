@@ -1,1 +1,4 @@
-# [amoldumbre.github.io](https://amoldumbre.github.io/)
+#[amoldumbre.github.io](https://amoldumbre.github.io/)
+```
+bundle exec jekyll serve
+```

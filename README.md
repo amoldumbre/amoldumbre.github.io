@@ -1,2 +1,4 @@
 ### [amoldumbre.github.io](https://amoldumbre.github.io/)
-`bundle exec jekyll serve`
+```
+bundle exec jekyll serve
+```

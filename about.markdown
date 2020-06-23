@@ -5,11 +5,11 @@ permalink: /about/
 ---
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)-->
-### Me
+#### Me
 
-I am Amol Dumbre having 8 years of experience in Software Development/Services and working as a Senior Software Engineer.
+I am Amol Dumbre having extensive experience in Software Development/Services industry and currently, working as a Senior Software Engineer. Till, I got a chance to work in Education, Telecommunication, Security and E-commerce domain.
 
-### MY TECHNICAL PROFICIENCY
+#### My Technical Proficiency
 - Web Technologies 
   - Ruby, Python, Javascript, Typescript, JQuery, Ajax, React JS, Node JS(Beginner)
 
@@ -46,10 +46,9 @@ I am Amol Dumbre having 8 years of experience in Software Development/Services a
 	- HTML, CSS, Angular Material, Twitter Bootstrap(3.1, 4.0), Reactstrap
 
 ****
-----
 
 
-### MY WORK
+#### My Work
 Here, are few listed pojects/samples from where I learned a lot.
 - [WellaDigital](https://welladigital.com)
 - [BeautyForce](https://beautyforce.ca/)

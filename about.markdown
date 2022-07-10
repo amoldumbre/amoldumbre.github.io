@@ -7,7 +7,7 @@ permalink: /about/
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)-->
 #### Me
 
-I am Amol Dumbre having extensive experience in Software Development/Services industry and currently, working as a Senior Software Engineer. Till, I got a chance to work in Education, Telecommunication, Security and E-commerce domain.
+I am Amol Dumbre having extensive experience in Software Development Life Cycle (SDLC). Presently, working as a Senior Software Engineer. Till, I got a chance to work in Education, Telecommunication, Security, Facility/Service Management and E-commerce domain.
 
 #### My Technical Proficiency
 - Web Technologies 

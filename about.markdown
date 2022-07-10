@@ -11,16 +11,15 @@ I am Amol Dumbre having extensive experience in Software Development/Services in
 
 #### My Technical Proficiency
 - Web Technologies 
-  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, React JS, Node JS(Beginner)
+  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, React JS, NodeJS, VueJS(Beginner)
 
 
 - Framework 
-	- Rails 4.0, 5.0, Angular 5 (Beginner), Flask, ExpressJS, ROR-Spree
+	- Rails 4.0, 5.0, 6.0, Angular 5 (Beginner), Flask, ExpressJS, ROR-Spree
 
 
 - Web Services
-	- REST JSON API, Amazon S3, Cloudfront, VIN (Vehicle Identification Number), Video Encoding (encoding.com), Twilio, Pushwoosh, Git V3 API
-
+	- REST JSON API, Amazon S3, Cloudfront, VIN (Vehicle Identification Number), Video Encoding (encoding.com), Twilio, Pushwoosh, Git V3 API, Hubspot
 
 
 - Database 
@@ -32,7 +31,7 @@ I am Amol Dumbre having extensive experience in Software Development/Services in
 
 
 - Development Environment
-	- Visual Studio, Sublime Text 3, Komodo Editor, Git, BitBucket, Mysql Workbench, Sqliteman, PHPMyAdmin, Postman, Swagger, PyCharm
+	- Visual Studio, Sublime Text 3, Komodo Editor, Git, BitBucket, Mysql Workbench, Sqliteman, PHPMyAdmin, Postman, Swagger, PyCharm, PgAdmin
 
 
 - DevOps 
@@ -49,7 +48,7 @@ I am Amol Dumbre having extensive experience in Software Development/Services in
 
 
 #### My Work
-Here, are few listed pojects/samples from where I learned a lot.
+Here, are few listed pojects/samples from where I have learned a lot.
 - [WellaDigital](https://welladigital.com)
 - [BeautyForce](https://beautyforce.ca/)
 - [CarPartsNigeria](https://carpartsnigeria.com)

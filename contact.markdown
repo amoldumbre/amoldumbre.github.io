@@ -6,6 +6,7 @@ permalink: /contact/
 <!-- action="https://formspree.io/mgenzqwk" -->
 
 **Email**: [Amol Dumbre (dev.amold@gmail.com)](mailto:dev.amold@gmail.com)
+**Email**: [Amol Dumbre (dumbre.amol15@gmail.com)](mailto:dumbre.amol15@gmail.com)
 
 **LinkedIn**: [https://in.linkedin.com/in/amol-dumbre15](https://in.linkedin.com/in/amol-dumbre15)
 <br /><br />

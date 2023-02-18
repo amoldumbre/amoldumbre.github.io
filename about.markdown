@@ -11,7 +11,7 @@ I am Amol Dumbre having extensive experience in Software Development Life Cycle 
 
 #### My Technical Proficiency
 - Web Technologies 
-  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, React JS, NodeJS, VueJS
+  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, VueJS, React JS, NodeJS
 
 
 - Framework 

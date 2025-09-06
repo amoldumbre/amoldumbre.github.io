@@ -11,15 +11,15 @@ I am Amol Dumbre having extensive experience in Software Development Life Cycle 
 
 #### My Technical Proficiency
 - Web Technologies 
-  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, VueJS, React JS, NodeJS
+  - Ruby, Python, Javascript, Typescript, JQuery, Ajax, VueJS, React JS, NodeJS, RSpec, Cucumber, Gherkin
 
 
 - Framework 
-	- Rails 4.0, 5.0, 6.0, Angular 5 (Beginner), Flask, ExpressJS, ROR-Spree
+	- Rails 4.0, 5.0, 6.0, 7.0, Angular 5 (Beginner), Flask, ExpressJS, ROR-Spree, Jest, Cypress, Capybara, 
 
 
 - Web Services
-	- REST JSON API, Amazon S3, Cloudfront, VIN (Vehicle Identification Number), Video Encoding (encoding.com), Twilio, Pushwoosh, Git V3 API, Hubspot
+	- RESTful API, Amazon S3, Cloudfront, VIN (Vehicle Identification Number), Video Encoding (encoding.com), Twilio, Pushwoosh, Git V3 API, Hubspot, Twilio, Fedex, HubSpot, Winteam, Stripe, Git API V3, Zendesk
 
 
 - Database 
@@ -34,12 +34,12 @@ I am Amol Dumbre having extensive experience in Software Development Life Cycle 
 	- Visual Studio, Sublime Text 3, Komodo Editor, Git, BitBucket, Mysql Workbench, Sqliteman, PHPMyAdmin, Postman, Swagger, PyCharm, PgAdmin
 
 
-- DevOps 
-	- Capistrano, Heroku, Nginx, Phusion passenger, VPS (DigitalOcean, AWS), Docker, Container
+- Infrastructure 
+	- Capistrano, Heroku, Nginx, Phusion passenger, VPS (DigitalOcean, AWS), Docker, Container, GHA-CI/CD, Lint, Rubocop, Brakeman, BulletGem
 
 
 - Enterprise Software
-	- JIRA, Git, VS Code, Unfuddle Stack
+	- JIRA, Git, VS Code, Unfuddle Stack Git, BitBucket, Jira, Unfuddle Stack, VS Code, Sublime Text, PgAdmin, Mysql Workbench, Postman, Swagger, Insomnia, PyCharm, SqlAce, Dbeaver, PagerDuty, SumoLog, SysDig, AWS Workspace, Overmind
 
 - GUIs 
 	- HTML, CSS, Angular Material, Twitter Bootstrap(3.1, 4.0), Reactstrap
@@ -49,9 +49,11 @@ I am Amol Dumbre having extensive experience in Software Development Life Cycle 
 
 #### My Work
 Here, are few listed pojects/samples from where I have learned a lot.
+- [CarPartsNigeria](https://carpartsnigeria.com)
+- [HPDaaS](https://www.hpdaas.com/)
+- [UtilizeCore](https://www.utilizecore.com/)
 - [WellaDigital](https://welladigital.com)
 - [BeautyForce](https://beautyforce.ca/)
-- [CarPartsNigeria](https://carpartsnigeria.com)
 - [Edmodo](https://edmodo.com)
 - [Inventory Management](https://inventory-management-a.herokuapp.com/)
 - [Payroll](https://payroll-a.herokuapp.com)

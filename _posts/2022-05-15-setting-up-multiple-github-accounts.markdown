@@ -21,7 +21,7 @@ Navigate to the `~/.ssh` directory and run the following commands:
 
 ```bash
 cd ~/.ssh
-ssh-keygen -t rsa -C "amol.dumbre@example.com"
+ssh-keygen -t rsa -C "testuser@example.com"
 ````
 
 When prompted:
@@ -147,8 +147,8 @@ git remote add origin mygit@mydomain.mygitsite.com:testproject-automation/testre
 Instead of setting a global Git identity, configure it per repository:
 
 ```bash
-git config user.name "Amol Dumbre"
-git config user.email "amol.dumbre@example.com"
+git config user.name "Test User"
+git config user.email "testuser@example.com"
 ```
 
 This ensures that commits from your personal and company repositories are properly attributed.

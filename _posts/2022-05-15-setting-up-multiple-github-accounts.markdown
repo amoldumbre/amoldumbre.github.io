@@ -154,6 +154,6 @@ git config user.email "amol.dumbre@example.com"
 This ensures that commits from your personal and company repositories are properly attributed.
 
 ### Summary
-
-<img width="768" height="130" alt="github_multiple_accounts" src="https://github.com/user-attachments/assets/1507c8a4-0591-4d45-8091-765ac77468cd" />
-
+<a href="https://github.com/user-attachments/assets/1507c8a4-0591-4d45-8091-765ac77468cd" target="_blank">
+ <img width="768" height="130" alt="github_multiple_accounts" src="https://github.com/user-attachments/assets/1507c8a4-0591-4d45-8091-765ac77468cd" />
+</a>

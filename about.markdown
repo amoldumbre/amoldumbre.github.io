@@ -54,6 +54,7 @@ Here, are few listed pojects/samples from where I have learned a lot.
 - [HPDaaS](https://www.hpdaas.com/)
 - [UtilizeCore](https://www.utilizecore.com/)
 - [WellaDigital](https://welladigital.com)
+- [GoPlaySave @ Charlotte](https://www.goplaysavecharlotte.com/)
 - [BeautyForce](https://beautyforce.ca/)
 - [Edmodo](https://edmodo.com)
 - [Inventory Management](https://inventory-management-a.herokuapp.com/)

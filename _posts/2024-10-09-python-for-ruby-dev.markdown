@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Python for Ruby Developers: A Comparison Guide"
+date: 2024-10-09
+categories: Python
+---
+
 # **🐍 Python for Ruby Developers: A Comparison Guide**
 
 This guide highlights the core differences between Python and Ruby, focusing on concepts familiar to a Ruby developer. The goal is to provide a quick reference for adapting your thinking and syntax.

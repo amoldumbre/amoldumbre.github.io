@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🚀 The PNPM Performance Revolution 🚀"
+title: "The PNPM Performance Revolution 🚀"
 date: 2025-06-01
 categories: Javascript
 ---

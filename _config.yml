@@ -28,6 +28,7 @@ url: "amoldumbre.github.io" # the base hostname & protocol for your site, e.g. h
 #twitter_username: jekyllrb
 #github_username:  amoldumbre
 github_username:  development-amold
+google_analytics: G-1YV5HNEQKS
 
 # Build settings
 theme: minima

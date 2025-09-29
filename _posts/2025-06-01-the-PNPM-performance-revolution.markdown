@@ -35,7 +35,7 @@ PNPM's strict, symlinked structure eliminates this. Your project only sees what 
 ### 4. Workspaces for Monorepos
 pnpm has **built-in support for workspaces**, making it an excellent choice for monorepo architectures. Managing multiple packages across a large codebase becomes seamless.
 
-# ⚙️ How to Get Started
+## ⚙️ How to Get Started
 1. Install pnpm
 `npm install -g pnpm`
 
@@ -49,7 +49,7 @@ pnpm has **built-in support for workspaces**, making it an excellent choice for 
 pnpm respects the package.json scripts just like npm:
 `pnpm run dev`
 
-# 🛠 Example: Using pnpm Workspaces (Monorepo)
+## 🛠 Example: Using pnpm Workspaces (Monorepo)
 A common use case is monorepo development where multiple packages are managed in one repo.
 #### Step 1: Create pnpm-workspace.yaml
 ```

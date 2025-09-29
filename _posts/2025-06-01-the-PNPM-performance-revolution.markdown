@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "The PNPM Performance Revolution"
+title: "🚀 The PNPM Performance Revolution 🚀"
 date: 2025-06-01
 categories: Javascript
 ---
 
-# 🚀 The PNPM Performance Revolution 🚀
 ## 🔎 What is pnpm?
 _pnpm (Performant npm)_ is a fast, disk space–efficient package manager for **JavaScript** projects. It was created to solve some of the biggest pain points with npm and Yarn, such as slow installs and excessive disk usage.
 

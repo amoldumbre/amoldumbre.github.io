@@ -6,7 +6,7 @@ categories: Javascript
 ---
 
 ## 🔎 What is pnpm?
-_pnpm (Performant npm)_ is a fast, disk space–efficient package manager for **JavaScript** projects. It was created to solve some of the biggest pain points with npm and Yarn, such as slow installs and excessive disk usage.
+_pnpm (Performant npm)_ is a fast, disk space–efficient package manager for **JavaScript** projects. It was created to solve some of the biggest pain points with `npm` and `yarn`, such as slow installs and excessive disk usage.
 
 The core idea behind pnpm is its **unique node_modules structure** that uses symlinks to avoid duplication of packages. Instead of copying dependencies repeatedly for every project, pnpm stores them in a global content-addressable store and links them where needed.
 
